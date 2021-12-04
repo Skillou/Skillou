@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skillou
-- 👀 I’m interested in web developpment
+- 👀 I’m interested in web developpment and dynamics 365 crm developpment
 - 🌱 I’m currently learning some of languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
